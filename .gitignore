@@ -1,1 +1,6 @@
+*.exe
+*.out
+*.o
+build/
 system_check
+arena
